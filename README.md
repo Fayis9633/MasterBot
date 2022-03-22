@@ -1,17 +1,18 @@
 <p align="center">
-  <img src="assets/AJAX.png" alt="ᵐᵃˢᵗᵉʳ Techz">
+  <img src="assets/logo.jpg" alt="Eva Maria Logo">
 </p>
 <h1 align="center">
-  <b>ᵐᵃˢᵗᵉʳ 𝙸𝙼𝙳𝙱 𝙱𝙾𝚃 𝚅3</b>
+  <b>Eva Maria Bot</b>
 </h1>
-<a href="https://youtube.com/c/NewMovies2022x">
-  
 
-[![Stars](https://img.shields.io/github/stars/Aadhi000/Ajax?style=flat-square&color=orange)](https://github.com/Aadhi000/Ajax/stargazers)
-[![Forks](https://img.shields.io/github/forks/Aadhi000/Ajax?style=flat-square&color=blue)](https://github.com/Aadhi000/Ajax/fork)
-[![Size](https://img.shields.io/github/repo-size/Aadhi000/Ajax?style=flat-square&color=black)](https://github.com/Aadhi000/Ajax)   
-[![Open Source happy ](https://badges.frapsoft.com/os/v2/open-source.svg?v=110)](https://github.com/Aadhi000/Ajax)   
-[![Contributors](https://img.shields.io/github/contributors/Aadhi000/Ajax?style=flat-square&color=green)](https://github.com/Aadhi000/Ajax/graphs/contributors)
+
+[![Stars](https://img.shields.io/github/stars/EvamariaTG/EvaMaria?style=flat-square&color=yellow)](https://github.com/EvamariaTG/EvaMaria/stargazers)
+[![Forks](https://img.shields.io/github/forks/EvamariaTG/EvaMaria?style=flat-square&color=orange)](https://github.com/EvamariaTG/EvaMaria/fork)
+[![Size](https://img.shields.io/github/repo-size/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/)   
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/EvamariaTG/EvaMaria)   
+[![Contributors](https://img.shields.io/github/contributors/EvamariaTG/EvaMaria?style=flat-square&color=green)](https://github.com/EvamariaTG/EvaMaria/graphs/contributors)
+[![License](https://img.shields.io/badge/License-AGPL-blue)](https://github.com/EvamariaTG/EvaMaria/blob/main/LICENSE)
+[![Sparkline](https://stars.medv.io/EvamariaTG/EvaMaria.svg)](https://stars.medv.io/EvamariaTG/EvaMaria)
 ## Features
 
 - [x] Auto Filter
